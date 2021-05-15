@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../marlin_konfiguracja/git"
+		},
+		{
+			"name": "Marlin",
+			"path": "../../../marlin_konfiguracja/git/Marlin"
+		}
+	],
+	"settings": {}
+}
